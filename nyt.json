@@ -1,0 +1,1104 @@
+{
+    "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "4fd24e268eb7c8105d7efadc",
+                "abstract": "Family whose apartment in New Orleans was destroyed by fire after Hurricane Katrina has stayed in 14 different places since then, including five shelters; immediate aftermath of hurricane has exposed deep divide between New Orleans's haves and have-nots; middle-class families rushed to hotels while poorest of poor suffered in squalor of Superdome; chasm remains, three months later; Tracy Jackson and Jerel Brown, who are not married and lack high school diplomas, credit cards or driver's licenses, are, with their four young children, among legions of desperately destitute still lost and in limbo; their troubled, directionless odyssey is one of opportunities missed and squandered, of government money and charitable donations spent partly on DVD's and costume jewelry, of fumbling to find family without phone numbers, of many days doing little more than waiting for help to somehow happen; they are now camped in rundown section of Baton Rouge, sharing house with Jackson's sister and her family; photos; map; timeline (L)",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By JODI WILGOREN",
+                    "person": [
+                        {
+                            "firstname": "Jodi",
+                            "lastname": "WILGOREN",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE DISPLACED",
+                    "main": "After 14 Weeks, Evacuees Settle Into 14th Home",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "persons",
+                        "rank": 0,
+                        "value": "BROWN, JEREL"
+                    },
+                    {
+                        "major": null,
+                        "name": "persons",
+                        "rank": 0,
+                        "value": "JACKSON, TRACY"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "LOUISIANA"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "KATRINA (STORM)"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANE KATRINA"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "SUPERDOME (NEW ORLEANS)"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 75,
+                        "legacy": {
+                            "hasthumbnail": "Y",
+                            "thumbnail": "images/2005/12/13/national/13katrina.752.jpg",
+                            "thumbnailheight": 75
+                        },
+                        "rank": 0,
+                        "subType": "thumbnail",
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2005/12/13/national/13katrina.752.jpg",
+                        "width": 0
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "1",
+                "pub_date": "2005-12-13T00:00:00Z",
+                "score": 0.0,
+                "snippet": "More than three months after Hurricane Katrina uprooted thousands of lives, many of the poorest victims remain in limbo.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/12/13/national/nationalspecial/13katrina.html",
+                "word_count": 1703
+            },
+            {
+                "_id": "4fd2863b8eb7c8105d8570f1",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By DAVE CALDWELL",
+                    "person": [
+                        {
+                            "firstname": "Dave",
+                            "lastname": "CALDWELL",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "PRO FOOTBALL",
+                    "main": "N.F.L. Tries to Create Home Field for Saints",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "multimedia": [],
+                "new_desk": "Sports Desk",
+                "print_page": "6",
+                "pub_date": "2005-09-15T00:00:00Z",
+                "score": 0.0,
+                "snippet": "The National Football League is determined to make the New Orleans Saints feel as if they are playing a home game Monday night, even though Giants Stadium sits almost 1,200 miles northeast of the Louisiana Superdome and is just another way station...",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://query.nytimes.com/gst/fullpage.html?res=9903E3DE1E31F936A2575AC0A9639C8B63",
+                "word_count": 809
+            },
+            {
+                "_id": "4fd25f7d8eb7c8105d80f11b",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By Samuel G. Freedman",
+                    "person": [
+                        {
+                            "firstname": "Samuel",
+                            "lastname": "Freedman",
+                            "middlename": "G.",
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "ON EDUCATION",
+                    "main": "Just a Living Legacy To the Leader of the Band",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "MUSIC"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "EDUCATION AND SCHOOLS"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANE KATRINA"
+                    }
+                ],
+                "multimedia": [],
+                "new_desk": "Metropolitan Desk",
+                "print_page": "9",
+                "pub_date": "2005-09-14T00:00:00Z",
+                "score": 0.0,
+                "snippet": "ON the afternoon before Hurricane Katrina hit, as he was packing his car to flee, Lawrence Winchester called Prof.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/14/education/14education.html",
+                "word_count": 1372
+            },
+            {
+                "_id": "4fd2a9058eb7c8105d893f11",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "This article is by Eric Lipton, Christopher Drew, Scott Shane and David Rohde.; Jason DeParle, Robert Pear, Eric Schmitt and Thom Shanker contributed reporting for this article",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "lastname": null,
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "Christopher",
+                            "lastname": "Drew",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 2,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "Scott",
+                            "lastname": "Shane",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 3,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "David",
+                            "lastname": "Rohde",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 4,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": null,
+                    "main": "STORM AND CRISIS: Government Assistance; Breakdowns Marked Path From Hurricane to Anarchy",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight2": "325",
+                            "MultimediaPopupWidth2": "250",
+                            "MultimediaType2": "Image",
+                            "MultimediaUrl2": "imagepages/2005/09/10/national/11responseCA02ready.html"
+                        },
+                        "rank": 2,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/10/national/11responseCA02ready.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/11/national/11responseCA01ready.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/11/national/11responseCA01ready.html",
+                        "width": 250
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "1",
+                "pub_date": "2005-09-11T00:00:00Z",
+                "score": 0.0,
+                "snippet": "An initial examination of Katrina's aftermath shows the extent to which the federal government failed to act as a unified force.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/11/national/nationalspecial/11response.html",
+                "word_count": 4759
+            },
+            {
+                "_id": "4fd24e1c8eb7c8105d7eefef",
+                "abstract": "New Orleans police officers begin confiscating weapons from civilians in preparation for forced evacuation of last holdouts, as Pres Bush steels nation for grisly scenes of recovering dead that will unfold in coming days; police scour city seeking residents trying to avoid evacation as well as those considering evacuating voluntarily; Bush urges those displaced by storm to contact federal agencies to apply for immediate aid and praises outpouring of private charity; Mississippi Gov Haley Barbour says he expects death toll in his state, now at 196, to rise; says electricity will be restored shortly to homes and businesses that can receive it; overview of restoration operations and damage to regional industries (M)",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By ALEX BERENSON and JOHN M. BRODER; Alex Berenson reported from New Orleans for this article, and John M. Broder from Baton Rouge, La. Reporting was contributed by Sewell Chan from New Orleans, Jeremy Alford and Shaila Dewan from Baton Rouge and Ralph Blumenthal from Houston",
+                    "person": [
+                        {
+                            "firstname": "Alex",
+                            "lastname": "BERENSON",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "John",
+                            "lastname": null,
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 2,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE OVERVIEW",
+                    "main": "Police Begin Seizing Guns Of Civilians",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "persons",
+                        "rank": 0,
+                        "value": "BARBOUR, HALEY"
+                    },
+                    {
+                        "major": null,
+                        "name": "persons",
+                        "rank": 0,
+                        "value": "BUSH, GEORGE W"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "MISSISSIPPI"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "PHILANTHROPY"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "KATRINA (STORM)"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANE KATRINA"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "ELECTRIC LIGHT AND POWER"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "FIREARMS"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": "Police officers looking for survivors today in the Ninth Ward of New Orleans.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight2": "325",
+                            "MultimediaPopupWidth2": "250",
+                            "MultimediaSummary2": "Police officers looking for survivors today in the Ninth Ward of New Orleans.",
+                            "MultimediaType2": "Image",
+                            "MultimediaUrl2": "imagepages/2005/09/08/national/08cnd-orle5.ready.html"
+                        },
+                        "rank": 2,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/08/national/08cnd-orle5.ready.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": "Cheryl Cook, a resident of Desire Street in New Orleans, is evacuated with her dog, Trouble.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaSummary1": "Cheryl Cook, a resident of Desire Street in New Orleans, is evacuated with her dog, Trouble.",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/08/national/08orleans.6.ready.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/08/national/08orleans.6.ready.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": "Vice President Cheney, with Mayor Brent Warr,speaking today in Gulfport, Miss.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight3": "325",
+                            "MultimediaPopupWidth3": "250",
+                            "MultimediaSummary3": "Vice President Cheney, with Mayor Brent Warr,speaking today in Gulfport, Miss.",
+                            "MultimediaType3": "Image",
+                            "MultimediaUrl3": "imagepages/2005/09/08/national/08cnd-cheney.ready.html"
+                        },
+                        "rank": 3,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/08/national/08cnd-cheney.ready.html",
+                        "width": 250
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "17",
+                "pub_date": "2005-09-09T00:00:00Z",
+                "score": 0.0,
+                "snippet": "Local police officers began confiscating weapons from civilians in preparation for a forced evacuation of the last holdouts still living in New Orleans.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/09/national/nationalspecial/09storm.html",
+                "word_count": 1236
+            },
+            {
+                "_id": "4fd260f98eb7c8105d811ba8",
+                "abstract": "Floodwaters that poured into New Orleans in aftermath of Hurricane Katrina begin to recede as handful of pumps come back into operation, but growing concerns about gas leaks, fires, toxic wastes and disease spread by mosquitoes prompt Mayor C Ray Nagin to put more pressure on estimated 5,000 to 10,000 remaining citizens to leave; about 60 percent of city remains under water, down from peak of about 80 percent; most of gain is due to opening of gaps in city's levees by Army Corps of Engineers to allow water in city to flow into surrounding bodies of water, whose level has dropped below that of water in city; officials say it will take 24 days to pump water from eastern section of New Orleanss and 80 days to clear flooding from nearby Chalmette; official death toll stands at 83, but counting has only begun; police official says New Orleans is secure and looting at a minimum thanks to help from National Guard torops and 82nd Airborne; photo (M)",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By JERE LONGMAN and SEWELL CHAN; Jere Longman reported from New Orleans for this article, and Sewell Chan from Baton Rouge, La. Michael Cooper contributed reporting from Jackson, Miss.; Anne E. Kornblut from Washington; and Matthew L. Wald from Vicksburg, Miss",
+                    "person": [
+                        {
+                            "firstname": "Jere",
+                            "lastname": "LONGMAN",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "Sewell",
+                            "lastname": "CHAN",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 2,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE STORM",
+                    "main": "FLOODING RECEDES IN NEW ORLEANS; U.S. INQUIRY IS SET",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "persons",
+                        "rank": 0,
+                        "value": "NAGIN, C RAY"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "CHALMETTE (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "ARMY CORPS OF ENGINEERS"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "ENVIRONMENT"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "KATRINA (STORM)"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANE KATRINA"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "MOSQUITOES"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "MEDICINE AND HEALTH"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "DAMS AND DIKES"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "LOOTING"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "FIRES AND FIREFIGHTERS"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "FLOODS"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": "Fires remain a threat in New Orleans, which is still at least a day and a half away from restoring the first running water since the storm.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight2": "325",
+                            "MultimediaPopupWidth2": "250",
+                            "MultimediaSummary2": "Fires remain a threat in New Orleans, which is still at least a day and a half away from restoring the first running water since the storm.",
+                            "MultimediaType2": "Image",
+                            "MultimediaUrl2": "imagepages/2005/09/07/national/07storm.2.ready.html"
+                        },
+                        "rank": 2,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/07/national/07storm.2.ready.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": "A soldier patrolling the French quarter of New Orleans today.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaSummary1": "A soldier patrolling the French quarter of New Orleans today.",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/07/national/07cnd-patrol.1.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/07/national/07cnd-patrol.1.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": "Airboats more common in the bayous of southern Louisiana plied the flooded streets of New Orleans on Tuesday to evacuate trapped residents.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight3": "325",
+                            "MultimediaPopupWidth3": "250",
+                            "MultimediaSummary3": "Airboats more common in the bayous of southern Louisiana plied the flooded streets of New Orleans on Tuesday to evacuate trapped residents.",
+                            "MultimediaType3": "Image",
+                            "MultimediaUrl3": "imagepages/2005/09/06/national/07storm_front.html"
+                        },
+                        "rank": 3,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/06/national/07storm_front.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 75,
+                        "legacy": {
+                            "hasthumbnail": "Y",
+                            "thumbnail": "images/2005/09/07/national/07cnd-patrol.1.75.jpg",
+                            "thumbnailheight": 75
+                        },
+                        "rank": 0,
+                        "subType": "thumbnail",
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2005/09/07/national/07cnd-patrol.1.75.jpg",
+                        "width": 0
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 55,
+                        "legacy": {
+                            "hastinythumb": "Y",
+                            "tinythumbheight": 55,
+                            "tinythumbwidth": 55
+                        },
+                        "rank": 0,
+                        "subType": "tiny_thumb",
+                        "subtype": "tiny_thumb",
+                        "type": "image",
+                        "url": null,
+                        "width": 55
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "1",
+                "pub_date": "2005-09-07T00:00:00Z",
+                "score": 0.0,
+                "snippet": "The mayor of New Orleans said he wanted to ratchet up pressure on the estimated 5,000 to 10,000 remaining citizens to leave.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/07/national/nationalspecial/07storm.html",
+                "word_count": 1762
+            },
+            {
+                "_id": "4fd25c8a8eb7c8105d80a96c",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By JOSEPH B. TREASTER and JOHN DeSANTIS; Michael Luo contributed reporting from Baton Rouge, La., for this article",
+                    "person": [
+                        {
+                            "firstname": "Joseph",
+                            "lastname": null,
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE POLICE",
+                    "main": "With Some Now at Breaking Point, City's Officers Tell of Pain and Pressure",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "POLICE DEPARTMENT"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANE KATRINA"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/06/national/06policeCA01ready.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/06/national/06policeCA01ready.html",
+                        "width": 250
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "21",
+                "pub_date": "2005-09-06T00:00:00Z",
+                "score": 0.0,
+                "snippet": "Police officers in New Orleans have been traumatized by the loss of homes and family members, and morale is in tatters.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/06/national/nationalspecial/06police.html",
+                "word_count": 1469
+            },
+            {
+                "_id": "4fd260f88eb7c8105d811ac1",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By JOSEPH B. TREASTER ; Christopher Drew contributed reporting from Baton Rouge, La., for this article",
+                    "person": [
+                        {
+                            "firstname": "Joseph",
+                            "lastname": null,
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE REFUGEES",
+                    "main": "First Steps to Alleviate Squalor and Suffering at Convention Center",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "NATIONAL GUARD"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "FEDERAL EMERGENCY MANAGEMENT AGENCY"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/03/national/03orleans.1.ready.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/03/national/03orleans.1.ready.html",
+                        "width": 250
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "16",
+                "pub_date": "2005-09-03T00:00:00Z",
+                "score": 0.0,
+                "snippet": "NEW ORLEANS, Sept. 2 - Riding on the running board of a big white van, the city's highest-ranking police officer rolled up Friday afternoon to deliver the first scrap of good news that the 20,000 people holed up here in the squalid convention cent...",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/03/national/nationalspecial/03orleans.html",
+                "word_count": 1522
+            },
+            {
+                "_id": "4fd286378eb7c8105d856e6f",
+                "blog": {},
+                "byline": {
+                    "organization": null,
+                    "original": "By JAMES DAO and N. R. KLEINFIELD; James Dao reported from New Orleans for this article, and N.R. Kleinfield from New York. Reporting was also contributed by Felicity Barringer and Joseph B. Treaster in New Orleans and Jeremy Alford in Baton Rouge, La",
+                    "person": [
+                        {
+                            "firstname": "James",
+                            "lastname": "DAO",
+                            "middlename": null,
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 1,
+                            "role": "reported",
+                            "title": null
+                        },
+                        {
+                            "firstname": "N.",
+                            "lastname": "KLEINFIELD",
+                            "middlename": "R.",
+                            "organization": "",
+                            "qualifier": null,
+                            "rank": 2,
+                            "role": "reported",
+                            "title": null
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": "STORM AND CRISIS: THE OVERVIEW",
+                    "main": "MORE TROOPS AND AID REACH NEW ORLEANS; BUSH VISITS AREA; CHAOTIC EXODUS CONTINUES",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "major": null,
+                        "name": "glocations",
+                        "rank": 0,
+                        "value": "NEW ORLEANS (LA)"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "NATIONAL GUARD"
+                    },
+                    {
+                        "major": null,
+                        "name": "organizations",
+                        "rank": 0,
+                        "value": "FEDERAL EMERGENCY MANAGEMENT AGENCY"
+                    },
+                    {
+                        "major": null,
+                        "name": "subject",
+                        "rank": 0,
+                        "value": "HURRICANES AND TROPICAL STORMS"
+                    }
+                ],
+                "multimedia": [
+                    {
+                        "caption": null,
+                        "credit": "Clorestine Haney and her 6-year-old daughter received food this morning from the National Guard at the convention center in New Orleans.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight2": "325",
+                            "MultimediaPopupWidth2": "250",
+                            "MultimediaSummary2": "Clorestine Haney and her 6-year-old daughter received food this morning from the National Guard at the convention center in New Orleans.",
+                            "MultimediaType2": "Image",
+                            "MultimediaUrl2": "imagepages/2005/09/03/national/03cnd-storm1.html"
+                        },
+                        "rank": 2,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/03/national/03cnd-storm1.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": "Troops from the National Guard handed out food and supplies this morning at the convention center in New Orleans.",
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight1": "325",
+                            "MultimediaPopupWidth1": "250",
+                            "MultimediaSummary1": "Troops from the National Guard handed out food and supplies this morning at the convention center in New Orleans.",
+                            "MultimediaType1": "Image",
+                            "MultimediaUrl1": "imagepages/2005/09/03/national/03cnd-storm3.html"
+                        },
+                        "rank": 1,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/03/national/03cnd-storm3.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 325,
+                        "legacy": {
+                            "MultimediaPopupHeight3": "325",
+                            "MultimediaPopupWidth3": "250",
+                            "MultimediaType3": "Image",
+                            "MultimediaUrl3": "imagepages/2005/09/03/national/03cnd-fire.html"
+                        },
+                        "rank": 3,
+                        "subType": null,
+                        "subtype": null,
+                        "type": "Image",
+                        "url": "imagepages/2005/09/03/national/03cnd-fire.html",
+                        "width": 250
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 75,
+                        "legacy": {
+                            "hasthumbnail": "Y",
+                            "thumbnail": "images/2005/09/03/national/storm3.75.jpg",
+                            "thumbnailheight": 75
+                        },
+                        "rank": 0,
+                        "subType": "thumbnail",
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2005/09/03/national/storm3.75.jpg",
+                        "width": 0
+                    },
+                    {
+                        "caption": null,
+                        "credit": null,
+                        "crop_name": null,
+                        "height": 55,
+                        "legacy": {
+                            "hastinythumb": "Y",
+                            "tinythumbheight": 55,
+                            "tinythumbwidth": 55
+                        },
+                        "rank": 0,
+                        "subType": "tiny_thumb",
+                        "subtype": "tiny_thumb",
+                        "type": "image",
+                        "url": null,
+                        "width": 55
+                    }
+                ],
+                "new_desk": "National Desk",
+                "print_page": "1",
+                "pub_date": "2005-09-03T00:00:00Z",
+                "score": 0.0,
+                "snippet": "Military vehicles bearing food and supplies sloshed into New Orleans, while commercial planes arrived to lift hurricane survivors.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2005/09/03/national/nationalspecial/03storm.html",
+                "word_count": 2469
+            },
+            {
+                "_id": "54b357b638f0d82eb90f0e8a",
+                "blog": {},
+                "byline": {
+                    "organization": "AGENCE FRANCE-PRESSE",
+                    "original": "(AGENCE FRANCE-PRESSE)",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": null,
+                    "kicker": null,
+                    "main": "National Briefing",
+                    "name": null,
+                    "print_headline": null,
+                    "seo": null,
+                    "sub": "WEST ;"
+                },
+                "keywords": [],
+                "multimedia": [],
+                "new_desk": "National",
+                "print_page": "13",
+                "pub_date": "2006-04-01T00:00:00Z",
+                "score": 0.0,
+                "snippet": "WEST.",
+                "source": "The New York Times",
+                "type_of_material": "News",
+                "web_url": "https://www.nytimes.com/2006/04/01/us/01brfs.html",
+                "word_count": 927
+            }
+        ],
+        "meta": {
+            "hits": 2458,
+            "offset": 0,
+            "time": 10
+        }
+    },
+    "status": "OK"
+}
